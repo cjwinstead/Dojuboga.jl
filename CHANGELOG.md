@@ -11,3 +11,4 @@
 - Full-screen terminal game (`play_terminal`, `play.jl`), keyboard only; works over ssh.
 - Example Makie front end (`examples/makie_frontend.jl`).
 - Released under the MIT license.
+- Requires Julia 1.10 or later (Julia 1.9 no longer starts on current Linux systems).

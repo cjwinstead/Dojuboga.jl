@@ -14,7 +14,7 @@ It is pure Julia with standard-library dependencies only. It runs in any
 
 ## Install
 
-Requires Julia 1.9 or later. Dojuboga is registered in the
+Requires Julia 1.10 or later. Dojuboga is registered in the
 [LEFT_registry](https://github.com/cjwinstead/LEFT_registry):
 
 ```julia

@@ -18,7 +18,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        version: ['1.9', '1.10', '1']    # oldest supported (see Project.toml compat), LTS, latest
+        version: ['1.10', '1']    # oldest supported (LTS, see Project.toml compat) and latest
         os: [ubuntu-latest]
         include:
           - version: '1'
