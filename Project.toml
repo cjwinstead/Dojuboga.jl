@@ -1,7 +1,7 @@
 name = "Dojuboga"
 uuid = "9eb4ed94-bc8c-4e21-9290-b29d7d18d261"
 authors = ["Chris Winstead <chris.winstead@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1-DEV"
 
 [deps]
 REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
